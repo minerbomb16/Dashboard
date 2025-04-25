@@ -31,10 +31,6 @@ This project is a **React-based** web dashboard application designed to manage a
 - **Optimized Performance** – Efficient rendering and state management.
 - **Modern UI Design** – Simple and intuitive interface for seamless interaction.
 
-## [Link to website](https://fwxwz9.csb.app/)
-- ### Login: asd  
-- ### Password: 123 
-
 ## Images
 
 ![LoginDark](https://raw.githubusercontent.com/minerbomb16/Pngs/refs/heads/main/Dashboard/LoginDark.png)
